@@ -1,0 +1,1 @@
+# array-nbrs-can-equal-0
